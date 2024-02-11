@@ -1,8 +1,8 @@
-package org.vfdtech.alm.service;
+package org.walech.alm.system.service;
 
 import jakarta.transaction.Transactional;
 import org.springframework.data.util.Pair;
-import org.vfdtech.alm.dto.DebtMaturityResponse;
+import org.walech.alm.system.dto.DebtMaturityResponse;
 
 public interface DebtMaturityProfileService {
 

@@ -1,4 +1,4 @@
-package org.vfdtech.alm;
+package org.walech.alm.system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

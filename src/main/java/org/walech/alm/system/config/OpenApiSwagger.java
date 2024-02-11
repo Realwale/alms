@@ -1,4 +1,4 @@
-package org.vfdtech.alm.config;
+package org.walech.alm.system.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.License;

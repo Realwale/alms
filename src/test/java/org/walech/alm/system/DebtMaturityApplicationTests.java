@@ -1,4 +1,4 @@
-package org.vfdtech.alm;
+package org.walech.alm.system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

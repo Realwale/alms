@@ -1,15 +1,15 @@
-package org.vfdtech.alm.service.impl;
+package org.walech.alm.system.service.impl;
 
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.util.Pair;
 import org.springframework.stereotype.Service;
-import org.vfdtech.alm.dto.DebtMaturityResponse;
-import org.vfdtech.alm.model.DebtMaturityProfile;
-import org.vfdtech.alm.model.LiabilityReport;
-import org.vfdtech.alm.repository.DebtMaturityProfileRepository;
-import org.vfdtech.alm.service.DebtMaturityProfileService;
-import org.vfdtech.alm.service.LiabilityReportService;
+import org.walech.alm.system.dto.DebtMaturityResponse;
+import org.walech.alm.system.model.DebtMaturityProfile;
+import org.walech.alm.system.model.LiabilityReport;
+import org.walech.alm.system.repository.DebtMaturityProfileRepository;
+import org.walech.alm.system.service.DebtMaturityProfileService;
+import org.walech.alm.system.service.LiabilityReportService;
 
 import java.math.BigDecimal;
 import java.util.List;

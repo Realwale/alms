@@ -1,4 +1,4 @@
-package org.vfdtech.alm.model;
+package org.walech.alm.system.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

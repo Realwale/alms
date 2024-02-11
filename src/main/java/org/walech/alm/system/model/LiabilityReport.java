@@ -1,4 +1,4 @@
-package org.vfdtech.alm.model;
+package org.walech.alm.system.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

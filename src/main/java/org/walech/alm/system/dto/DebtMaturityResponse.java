@@ -1,4 +1,4 @@
-package org.vfdtech.alm.dto;
+package org.walech.alm.system.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

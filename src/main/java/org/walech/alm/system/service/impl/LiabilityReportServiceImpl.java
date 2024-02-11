@@ -1,11 +1,11 @@
-package org.vfdtech.alm.service.impl;
+package org.walech.alm.system.service.impl;
 
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.vfdtech.alm.model.LiabilityReport;
-import org.vfdtech.alm.repository.LiabilityReportRepository;
-import org.vfdtech.alm.service.LiabilityReportService;
+import org.walech.alm.system.model.LiabilityReport;
+import org.walech.alm.system.repository.LiabilityReportRepository;
+import org.walech.alm.system.service.LiabilityReportService;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package org.vfdtech.alm.controller;
+package org.walech.alm.system.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import org.vfdtech.alm.dto.DebtMaturityResponse;
-import org.vfdtech.alm.service.DebtMaturityProfileService;
+import org.walech.alm.system.dto.DebtMaturityResponse;
+import org.walech.alm.system.service.DebtMaturityProfileService;
 
 
 @RequiredArgsConstructor

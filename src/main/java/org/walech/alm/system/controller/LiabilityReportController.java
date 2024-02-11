@@ -1,11 +1,11 @@
-package org.vfdtech.alm.controller;
+package org.walech.alm.system.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.vfdtech.alm.model.LiabilityReport;
-import org.vfdtech.alm.service.LiabilityReportService;
+import org.walech.alm.system.model.LiabilityReport;
+import org.walech.alm.system.service.LiabilityReportService;
 
 import java.util.List;
 

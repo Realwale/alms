@@ -1,6 +1,6 @@
-package org.vfdtech.alm.service;
+package org.walech.alm.system.service;
 
-import org.vfdtech.alm.model.LiabilityReport;
+import org.walech.alm.system.model.LiabilityReport;
 
 import java.math.BigDecimal;
 import java.util.List;
